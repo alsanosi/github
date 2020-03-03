@@ -1,0 +1,4 @@
+<a href="&#x6A;avascript:alert(document.cookie)">Click this link!</a>
+
+
+<iframe src=# onmouseover=alert(String.fromCharCode(88,83,83))></iframe>
